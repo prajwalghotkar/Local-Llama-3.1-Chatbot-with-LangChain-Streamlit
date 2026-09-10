@@ -1,4 +1,4 @@
-# Local Llama 3.1 Chatbot with LangChain + Streamlit
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222017" src="https://github.com/user-attachments/assets/e80e9632-ace5-4f99-ab95-9c8b25ced29b" /># Local Llama 3.1 Chatbot with LangChain + Streamlit
 
 A minimal Streamlit app that lets you chat with **Llama 3.1** running **entirely on your own machine**, using **Ollama** as the local model server and **LangChain** to wire up the prompt and invocation.
 
@@ -13,6 +13,24 @@ No API keys. No cloud calls. No data leaves your computer.
 - **Streamlit** provides the chat UI in your browser.
 
 The app uses a basic "think step by step" prompt template, sends your question through the chain, and streams back Llama 3.1's answer.
+
+---
+
+<img width="1920" height="870" alt="cropped_Screenshot_2026-09-10_224958" src="https://github.com/user-attachments/assets/989881f7-b8b5-4ab7-9841-933050abcc22" />
+
+<img width="1920" height="870" alt="cropped_Screenshot_2026-09-10_224552" src="https://github.com/user-attachments/assets/36097f43-8d3b-47d3-b235-4b2242fe0642" />
+
+<img width="1920" height="870" alt="cropped_Screenshot_2026-09-10_224859" src="https://github.com/user-attachments/assets/fa5848d1-470e-4674-b533-51bfd7ad66fa" />
+
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222751" src="https://github.com/user-attachments/assets/c40aba60-5209-4acf-8aa5-d342d54fb48a" />
+
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222017" src="https://github.com/user-attachments/assets/b3f642e4-5c58-4085-a1fc-3537ee5cd0ad" />
+
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_225016" src="https://github.com/user-attachments/assets/93f96f0e-6a4e-4fb1-bff3-47fc8a2ec969" />
+
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222031" src="https://github.com/user-attachments/assets/9a8beb55-6e2f-4274-bd0f-f26650800020" />
+
+<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222136" src="https://github.com/user-attachments/assets/b2aae019-de78-4a0c-b5f5-d997ddc689ef" />
 
 ---
 
