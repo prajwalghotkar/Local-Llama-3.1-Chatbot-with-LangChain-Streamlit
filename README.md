@@ -1,4 +1,4 @@
-<img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222017" src="https://github.com/user-attachments/assets/e80e9632-ace5-4f99-ab95-9c8b25ced29b" /># Local Llama 3.1 Chatbot with LangChain + Streamlit
+# Local Llama 3.1 Chatbot with LangChain + Streamlit
 
 A minimal Streamlit app that lets you chat with **Llama 3.1** running **entirely on your own machine**, using **Ollama** as the local model server and **LangChain** to wire up the prompt and invocation.
 
