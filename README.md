@@ -16,30 +16,34 @@ The app uses a basic "think step by step" prompt template, sends your question t
 
 ---
 
+
 <img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222017" src="https://github.com/user-attachments/assets/8b8d8a5d-3e0c-482c-9197-dacb307fe526" />
 
----
+
+--
+
 
 <img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222031" src="https://github.com/user-attachments/assets/13b8a873-2a60-45aa-92e6-d3cc29ef4d90" />
 
----
+
+--
 
 <img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222136" src="https://github.com/user-attachments/assets/de532989-cdc5-45d2-af93-cd2d00400782" />
 
----
+--
 
 <img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_222751" src="https://github.com/user-attachments/assets/0771e45d-3247-4f0a-b6ba-062709f868bd" />
 
----
+--
 
 <img width="1920" height="970" alt="cropped_Screenshot_2026-09-10_225016" src="https://github.com/user-attachments/assets/993c9ea6-19fd-4c79-a6a9-d42966988b0a" />
 
 
----
+--
 
 <img width="1920" height="870" alt="cropped_Screenshot_2026-09-10_224552" src="https://github.com/user-attachments/assets/f1d2e8c2-3f67-43b2-b480-9af8fdfafe1a" />
 
----
+--
 
 <img width="1920" height="870" alt="cropped_Screenshot_2026-09-10_224859" src="https://github.com/user-attachments/assets/5d3018e3-4c22-4e9d-bb06-290c9d78d3fb" />
 
