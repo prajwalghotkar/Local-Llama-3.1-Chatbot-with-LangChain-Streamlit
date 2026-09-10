@@ -136,7 +136,7 @@ if question:
 - Since everything runs locally, response speed depends on your machine's CPU/GPU and RAM. Larger context or longer answers will take more compute.
 - If Ollama isn't running, the app will fail to connect — start it with `ollama serve` (or ensure the Ollama desktop app/service is active) before launching Streamlit.
 - You can swap `"llama3.1"` for any other model tag you've pulled via Ollama (e.g. `llama3.1:70b`, `mistral`, `gemma2`) without changing any other code.
-- `langchain_experimental` is listed in `requirements.txt` but isn't used by `app1.py` yet — safe to remove if you don't plan to use LangChain's experimental features, or keep it if you're planning to extend the app.
+- `langchain_experimental` is listed in `requirements.txt` but isn't used by `pajju_app.py` yet — safe to remove if you don't plan to use LangChain's experimental features, or keep it if you're planning to extend the app.
 
 ---
 
